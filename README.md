@@ -72,11 +72,17 @@ http://localhost:5173
 ## 🛒 Features
 
 ✔ Dynamic product listings.
+
 ✔ Product details page.
+
 ✔ Add to cart functionality.
+
 ✔ Page navigation with React Router.
+
 ✔ Smooth animations with Framer Motion.
+
 ✔ Modern UI components.
+
 ✔ Fully responsive layout.
 
 ---
